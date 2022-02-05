@@ -1,5 +1,7 @@
 # Mac環境構築
 
+上から順番に実行していくこと。
+
 ## XCode Command Line Toolsのインストール
 
 XCode Command Line Toolsとは開発に必要な基本的なコマンドをまとめたもの。`git`や`make`などが入っている。「開発に必要な」はAppleの基準。コマンドは`/Library/Developer/CommandLineTools`にインストールされる。
