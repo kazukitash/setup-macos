@@ -1,6 +1,15 @@
 # Mac環境構築
 
-上から順番に実行していくこと。
+## できること
+
+以下のソフトウェアのインストール
+- XCode Command Line Tools
+- HomeBrew
+- Visual Studio Code
+- Docker Desktop
+- Github Desktop
+
+以下を上から順番に実行していくこと。
 
 ## XCode Command Line Toolsのインストール
 
