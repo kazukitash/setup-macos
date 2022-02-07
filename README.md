@@ -7,7 +7,6 @@
 - HomeBrew
 - Visual Studio Code
 - Docker Desktop
-- Github Desktop
 
 以下を上から順番に実行していくこと。
 
@@ -75,14 +74,6 @@ code --install-extension ms-vscode-remote.remote-containers --force
 
 ```
 brew install --cask docker
-```
-
-### Github Desktop
-
-以下のコマンドを実行する。
-
-```
-brew install --cask github
 ```
 
 ## その他に変えといた方が良いもの
